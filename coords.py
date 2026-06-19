@@ -6,9 +6,9 @@ import time
 import subprocess
 from datetime import datetime
 
-HARDWARE_FILE = "hardware.json"
-OUTPUT_FILE = "keypad_coordinates.json"
-LOG_FILE = "keypad_coordinates_log.json"
+HARDWARE_FILE = "  "
+OUTPUT_FILE = " "
+LOG_FILE = " "
 
 
 # ----------------------------------------
